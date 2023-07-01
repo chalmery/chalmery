@@ -9,7 +9,7 @@
   </a>
   <a href="https://github.com/chalmery#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=chalmery&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=chalmery&hide=html&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
       alt="My Language stats"
       height="250"
     />
